@@ -14,6 +14,7 @@
   <h3 align="center">Covid Cases Tracker</h3>
 
   <p align="center">
+<p> <b>Honor Code</b> : <i>This is a WnCC recruitment assignment developed by me with my own understandings of Python. I have not copied or forged this code from anywhere.</i></p>
     <p>Covid Cases Tracker is developed with Python and can give the latest available stats for any city, from <a href=https://www.covid19india.org> covid19india.org </a> </p>
     <p>Covid Cases Tracker</p>
     <br />
@@ -56,6 +57,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+__Honor Code__ : _This is a WnCC recruitment assignment developed by me with my own understandings of Python. I have not copied or forged this code from anywhere._
 
 
 <!-- GETTING STARTED -->
