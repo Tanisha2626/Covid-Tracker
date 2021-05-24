@@ -57,6 +57,6 @@ with open(covid_report_file, "w") as report:
 
 csv_file = pd.read_csv(covid_report_file)
 csv_file.to_html(report_webpage)
-html_file = csv_file.to_html()
+# html_file = csv_file.to_html()
 
 openWeb(report_webpage)
