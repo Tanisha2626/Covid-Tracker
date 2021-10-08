@@ -5,7 +5,7 @@ import webbrowser
 
 covid_report_file = 'CovidReport.csv'
 report_webpage = 'CovidReport.html'
-covid_dumps_file = 'Resources\CovidDumps.csv'
+covid_dumps_file = 'CovidDumps.csv'
 # input_file = 'Test\\test.csv'
 input_file = 'inputs.csv'
 
